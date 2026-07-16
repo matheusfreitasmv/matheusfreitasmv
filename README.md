@@ -13,7 +13,7 @@
 
 ---
 
-##  About Me
+#  About Me
 
 I'm passionate about building intelligent systems that solve real-world problems through data and Artificial Intelligence.
 
