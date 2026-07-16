@@ -96,30 +96,6 @@ LLM-powered automation for customer support and lead qualification.
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusfreitasmv&theme=github-dark"/>
-
-</div>
-
----
-
-# Beyond Technology
-
-Outside of work, I enjoy:
-
-- Going to the gym
-
-- Reading books
-
-- Running
-
-- Watching movies and TV series
-
-I believe maintaining a healthy balance between professional growth and personal life helps me become a better engineer and researcher.
-
----
-
 # Let's Connect
 
 <div align="center">
