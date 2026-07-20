@@ -4,7 +4,7 @@
 
 ### Data Scientist • Machine Learning Engineer • Computer Vision
 
-*Turning data into intelligent solutions..*
+*Turning data into intelligent solutions*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Freitas-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/matheusfreitasmv)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:matheusvinicius.mv939@gmail.com)
